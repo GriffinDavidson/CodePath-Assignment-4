@@ -23,3 +23,7 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/l8wRHcm.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Notes
+
+Would love for someone to quickly show how to add my own personal api key and secret and get it working. Kept running into error 429 because hundreds/thousands of people using the same credentials.
